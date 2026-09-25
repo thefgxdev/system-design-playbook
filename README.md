@@ -41,4 +41,4 @@ Padrões, trade-offs e registros de decisão tirados de sistemas reais em produ�
 
 ## License
 
-MIT. Use it, adapt it, keep the attribution.
+Apache-2.0. Copyright (c) 2026 Felipe Guedes (fgxdev.com). Use it, adapt it, keep the NOTICE file and mark any changes.
